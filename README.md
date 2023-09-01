@@ -3,7 +3,7 @@ Hey You, Wassup, 👋 call me Momanyi
 - I love HTML, CSS, BOOTSTRAP, JS, REACT, PYTHON, DJANGO 🤳
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!😜
 
-<img align="center" width="480" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1oDBz_fxvGag0PEoU5lulC&ust=1693656669430000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKi9ofiwiYEDFQAAAAAdAAAAABAI)">
+<img align="center" width="480" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
