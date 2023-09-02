@@ -2,6 +2,7 @@ Hey You, Wassup, 👋 call me Momanyi
 - I’m currently learning 🔭 Django😎
 - I love HTML, CSS, BOOTSTRAP, JS, REACT, PYTHON, DJANGO 🤳
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!😜
+- https://www.mediafire.com/file/et8t0h9nrx9979o/Andro-Zen_Pro_Z2-Z3_AnuragSahni.tpk/file
 
 <img align="center" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
